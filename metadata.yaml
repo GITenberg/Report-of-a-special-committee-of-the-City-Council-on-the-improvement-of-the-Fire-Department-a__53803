@@ -1,5 +1,8 @@
 _repo: Report-of-a-special-committee-of-the-City-Council-on-the-improvement-of-the-Fire-Department-a__53803
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53803-h/images/cover.jpg
 creator:
   author:
     agent_name: Halifax (N.S.). City Council. Special Committee on the Improvement
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47543'
     url: http://www.gutenberg.org/2009/agents/47543
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53803#Report-of-a-special-committee-of-the-City-Council-on-the-improvement-of-the-Fire-Department-a_
 gutenberg_issued: '2016-12-25'
 gutenberg_type: Text
 identifiers:
