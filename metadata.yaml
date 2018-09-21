@@ -1,0 +1,26 @@
+_repo: Report-of-a-special-committee-of-the-City-Council-on-the-improvement-of-the-Fire-Department-a__53803
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Halifax (N.S.). City Council. Special Committee on the Improvement
+      of the Fire Department
+    gutenberg_agent_id: '47543'
+    url: http://www.gutenberg.org/2009/agents/47543
+description: ''
+gutenberg_issued: '2016-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TH'
+- !lcsh 'Water-supply -- Nova Scotia -- Halifax'
+- !lcsh 'Fire-departments -- Nova Scotia -- Halifax'
+- GITenberg
+title: "Report of a special committee of the City Council, on the improvement of the\
+  \ Fire Department\r\nand also, on the best means of obtaining an additional supply\
+  \ of water for fire purposes, for the city of Halifax, N.S."
+url: http://www.gutenberg.org/ebooks/53803
